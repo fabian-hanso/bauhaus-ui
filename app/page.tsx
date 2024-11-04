@@ -25,7 +25,7 @@ export default function Home() {
           <a href="https://www.instagram.com/bauhaus_ui/" className="text-red">
             Instagram
           </a>{" "}
-          page.
+          page for further information.
         </p>
       </div>
     </div>
